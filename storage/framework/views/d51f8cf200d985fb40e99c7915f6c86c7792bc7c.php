@@ -22,6 +22,7 @@
         <div class="col-3">
 
         <span>Operador</span>
+        
 
         <select class="form-select" name="operador">
             <option value="">Selecione...</option>
