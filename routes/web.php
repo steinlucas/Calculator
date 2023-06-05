@@ -16,4 +16,4 @@ use App\Http\Controllers\CalcController;
 
 Route::get('/', [CalcController::class, 'index']) -> name('index');
 
-Route::post('/calcular', [CalcController::class, 'calc']) -> name('calcular');
+Route::post('/calcular', [CalcController::class, 'calc']) -> name('calcular');  
